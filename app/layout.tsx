@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   creator: "Madiq Empire",
   publisher: "Madiq Empire",
   manifest: "/manifest.webmanifest",
-  metadataBase: new URL("http://localhost:3000"),
+  metadataBase: new URL("https://madiq-empire.vercel.app"),
   alternates: {
     canonical: "/",
   },
