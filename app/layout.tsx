@@ -18,6 +18,11 @@ export const metadata: Metadata = {
     default: "Madiq Empire — Independent Record Label",
     template: "%s — Madiq Empire",
   },
+
+  verification: {
+  google: "CX4BNyXBBd9E1UKaeqHUlHFRn1cjwsJg-PxFQ9S_XuU",
+},
+
   description:
     "Madiq Empire is an independent record label and creative force built around distinctive artists, original music, and a new generation of sound.",
   icons: {
