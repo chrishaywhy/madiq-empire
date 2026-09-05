@@ -320,7 +320,9 @@ export default function Home() {
     <p>
   Madiq Empire is an independent Nigerian record label and creative force
   founded on January 15, 2024, by Nigerian artist Christian Orji,
-  professionally known as Lordmoon.
+  professionally known as Lordmoon. Based in Lagos, Nigeria, the label
+  discovers, develops, and supports distinctive independent artists while
+  building a platform for African music to reach audiences around the world.
 </p>
 
     <p>
